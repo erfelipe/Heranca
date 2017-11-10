@@ -13,7 +13,6 @@ public class Professor extends Pessoa {
         return inscricao;
     }
 
-       
     /**
      * @param inscricao the inscricao to set
      */
